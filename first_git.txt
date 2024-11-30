@@ -1,2 +1,6 @@
 gitの練習
 追加してみた
+
+以下を学びます
+・git add
+・git commit

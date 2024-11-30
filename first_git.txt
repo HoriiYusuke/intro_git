@@ -4,3 +4,5 @@ gitの練習
 以下を学びます
 ・git add
 ・git commit
+・git rm
+
